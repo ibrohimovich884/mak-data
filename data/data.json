@@ -1,0 +1,53 @@
+{
+    "40-maktab": [
+        {
+            "8a-sinf": [
+                {
+                    "Qizlar": [
+                        {
+                            "Go'zal": [
+                                {
+                                    "Full name": "Oribjonova Go'zal Kamiljan qizi",
+                                    "Name": "Go'zal",
+                                    "Gender": "Ayol",
+                                    "Birthday": "2011-04-02",
+                                    "Relation": "Friends",
+                                    "Grades": [
+                                        "Baxolar mavjud emas!"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Xadicha": [
+                                {
+                                    "Full name": "Erkinova Xadicha Shovkat qizi",
+                                    "Name": "Xadicha",
+                                    "Gender": "Ayol",
+                                    "Birthday": "2011-05-01",
+                                    "Relation": "My friend's loved girl","Grades": [
+                                        "Baxolar mavjud emas!"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Nafisa": [
+                                {
+                                    "Full name": "Nabijonova Nafisa Aziz qizi",
+                                    "Name": "Nafisa",
+                                    "Gender": "Ayol",
+                                    "Birthday": "2011-11-18",
+                                    "Relation": "My loved girl",
+                                    "Grades": [
+                                        "Baxolar mavjud emas!"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
